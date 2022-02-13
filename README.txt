@@ -13,7 +13,4 @@ code as fast as possible so that nobody would suspect whats truly at work. To su
 our code efficient. Something I disliked about this assignment was how long it took to playtest the game. Every single game took at least five minutes
 of just spamming random letters. It also sucked because it would be hard to tell which letters you haven't played yet after a while. 
 
-I spent two and a half hours working on this assignment. It didn't feel like all that long either, the map part was a little tricky but conceptually
-the game was much easier to understand than the convoluted mess that was lab07.
-
-I didn't add any novel features(unfortunately to many midterms this week).
+I didn't add any novel features(unfortunately because of to many midterms this week).
